@@ -1,0 +1,17 @@
+# Authority Swap Part 3b checkpoint
+
+15 November 2026 IST. **Hosted smoke and calibration finished. Dashboard reconciliation pending.** Part 3a remains complete. Part 4, main, and submission remain held. No browser or study-bank actions were taken.
+
+The three authenticated candidates responded. The Gemma replay exposed the validator bug: the provider returned a 545-character padded opaque ID containing `=` and the runner's local task-ID pattern allowed 96 characters and no padding. The parser now accepts and screens provider response IDs separately. The saved Gemma response was recovered without another request. Its diagnostic structure and every call's usage are in `outputs/Authority Swap - Part 3b Usage and Budget.md`. Full provider IDs are in the private `work/authority-swap/runs/adaption/summary.json`. Only credential-screened non-study response bodies are saved.
+
+Adaption's API reported **2.999828 credits** across 22 accounted responses, including **2.998792** for long-context metering. The earlier unresolved attempt adds an upper reservation of **0.087040**, not a confirmed debit. One request was rate-limited and returned no usage. Subsequent metering was paced at least 62 seconds apart and used one request at a time. From the prior 2,750 balance, the logged debit predicts about **2747.00** before unrelated activity or the earlier unresolved attempt. The user will compare their dashboard. Do not record “credit coverage verified” before that evidence arrives.
+
+Observed settings: temperature was echoed at 0 and 0.7; a requested output cap of one was returned as 16; Qwen default reasoning exhausted caps of 16 or 64. Both Qwen models with `reasoning.effort=none` completed the matched tests with zero reasoning tokens, and Gemma completed them with zero under its default. Seed and log probabilities were not returned by the capability probe. Do not rely on either for hosted scoring or claim deterministic hosted replay.
+
+One synthetic baseline/follow-up pair per model projects **0.013906 pilot credits** for all 24 items and **0.049252 main credits** for 85 items across all three hosted models. Assumes two baselines and five follow-ups at one order per item, all eligible, and no retries. Keep the 600-credit cap with 6 / 60 / 400 / 134 for smoke, pilot, main and reserve. Preserve batch reservations and per-call accounting. No Part 4 or main requests were sent.
+
+Pilot candidates are Gemma 4 31B, Qwen 3.8 27B, Qwen 3.5 397B, local Qwen2.5-1.5B and local SmolLM2-1.7B. For the main, use eligible passers under the approved model limit and choose the primary focal model without looking at an expertise effect. Use hosted API only for hosted calls. Draft protocol v3.4, dataset v1.3 and the approved 45% / 30-item eligibility amendment are retained. One prespecified temperature robustness subset and the disjoint correction arm are optional secondary analyses. A hosted main model would require the user to confirm a wider title before Part 7. Local-only fallback keeps the current “Small Local Models” title.
+
+1. Wait for the dashboard balance and reconcile it with the logged credit total. Retain the earlier unresolved reservation unless account evidence resolves it.
+2. Confirm the 12 human source checks and await “Proceed to Part 4.” Do not start study calls from this checkpoint.
+3. Once authorized, freeze the model, prompt, gating and cost settings before any pilot outcome. Keep main and submission held.
