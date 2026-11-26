@@ -1,0 +1,312 @@
+{
+  "dataset_version": "v1.3",
+  "protocol_version": "draft v3.4; design amendments only; no experiments",
+  "created_utc": "2026-11-14T17:51:28.583775+00:00",
+  "n": 133,
+  "counts": {
+    "main": {
+      "easy": 30,
+      "medium": 29,
+      "hard": 26
+    },
+    "pilot_dev": {
+      "easy": 4,
+      "medium": 3,
+      "hard": 1
+    },
+    "pilot_accept": {
+      "easy": 3,
+      "medium": 9,
+      "hard": 4
+    },
+    "correction": {
+      "easy": 5,
+      "medium": 15,
+      "hard": 4
+    }
+  },
+  "changed_ids": [
+    "C013",
+    "C016",
+    "C021",
+    "C024",
+    "C037",
+    "C038",
+    "C044",
+    "E010",
+    "E014",
+    "E015",
+    "E018",
+    "E019",
+    "E021",
+    "E022",
+    "E023",
+    "E024",
+    "E025",
+    "E026",
+    "E027",
+    "E028",
+    "E029",
+    "E030",
+    "E033",
+    "E034",
+    "E035",
+    "E037",
+    "E041",
+    "E046",
+    "S001",
+    "S003",
+    "S006",
+    "S010",
+    "S011",
+    "S012",
+    "S014",
+    "S019",
+    "S021",
+    "S022",
+    "S023",
+    "S028",
+    "S029",
+    "S030",
+    "S038"
+  ],
+  "accepted_changed_ids": [
+    "C013",
+    "C016",
+    "C021",
+    "C024",
+    "C037",
+    "C038",
+    "C044",
+    "E010",
+    "E014",
+    "E015",
+    "E018",
+    "E019",
+    "E021",
+    "E022",
+    "E023",
+    "E024",
+    "E025",
+    "E026",
+    "E027",
+    "E028",
+    "E029",
+    "E030",
+    "E033",
+    "E034",
+    "E035",
+    "E037",
+    "E041",
+    "E046",
+    "S001",
+    "S003",
+    "S006",
+    "S010",
+    "S011",
+    "S012",
+    "S014",
+    "S019",
+    "S021",
+    "S022",
+    "S023",
+    "S028",
+    "S029",
+    "S030",
+    "S038"
+  ],
+  "exclusions": [
+    {
+      "id": "S017",
+      "reason": "Retired after overlap/prefix-concentration audit; no replacement accepted for this slot",
+      "previous_status": "EXCLUDE_PENDING_REPLACEMENT_2C"
+    },
+    {
+      "id": "C027",
+      "reason": "Retired after overlap/prefix-concentration audit; no replacement accepted for this slot",
+      "previous_status": "EXCLUDE_PENDING_REPLACEMENT_2C"
+    },
+    {
+      "id": "C028",
+      "reason": "Retired after overlap/prefix-concentration audit; no replacement accepted for this slot",
+      "previous_status": "EXCLUDE_PENDING_REPLACEMENT_2C"
+    },
+    {
+      "id": "S025",
+      "reason": "Retired after overlap/prefix-concentration audit; no replacement accepted for this slot",
+      "previous_status": "EXCLUDE_PENDING_REPLACEMENT_2C"
+    },
+    {
+      "id": "S027",
+      "reason": "Retired after overlap/prefix-concentration audit; no replacement accepted for this slot",
+      "previous_status": "EXCLUDE_PENDING_REPLACEMENT_2C"
+    }
+  ],
+  "balance": [
+    {
+      "bank": "main",
+      "tier": "easy",
+      "n": 30,
+      "A": 15,
+      "B": 15
+    },
+    {
+      "bank": "main",
+      "tier": "medium",
+      "n": 29,
+      "A": 15,
+      "B": 14
+    },
+    {
+      "bank": "main",
+      "tier": "hard",
+      "n": 26,
+      "A": 13,
+      "B": 13
+    },
+    {
+      "bank": "pilot_dev",
+      "tier": "easy",
+      "n": 4,
+      "A": 2,
+      "B": 2
+    },
+    {
+      "bank": "pilot_dev",
+      "tier": "medium",
+      "n": 3,
+      "A": 1,
+      "B": 2
+    },
+    {
+      "bank": "pilot_dev",
+      "tier": "hard",
+      "n": 1,
+      "A": 1,
+      "B": 0
+    },
+    {
+      "bank": "pilot_accept",
+      "tier": "easy",
+      "n": 3,
+      "A": 2,
+      "B": 1
+    },
+    {
+      "bank": "pilot_accept",
+      "tier": "medium",
+      "n": 9,
+      "A": 4,
+      "B": 5
+    },
+    {
+      "bank": "pilot_accept",
+      "tier": "hard",
+      "n": 4,
+      "A": 2,
+      "B": 2
+    },
+    {
+      "bank": "correction",
+      "tier": "easy",
+      "n": 5,
+      "A": 2,
+      "B": 3
+    },
+    {
+      "bank": "correction",
+      "tier": "medium",
+      "n": 15,
+      "A": 8,
+      "B": 7
+    },
+    {
+      "bank": "correction",
+      "tier": "hard",
+      "n": 4,
+      "A": 2,
+      "B": 2
+    }
+  ],
+  "seed": 2026111402,
+  "human_sample_ids": [
+    "C008",
+    "E018",
+    "S028",
+    "C032",
+    "E032",
+    "E033",
+    "S035",
+    "E036",
+    "C035",
+    "C040",
+    "E041",
+    "C044"
+  ],
+  "human_sample_rejection_attempt": 1,
+  "human_sample_changed_count": 5,
+  "cue_audit": {
+    "before_active119": {
+      "keyed_rows": 119,
+      "correct_words_equal": 90,
+      "correct_characters_equal": 28,
+      "correct_options_with_absolute": 0,
+      "wrong_options_with_absolute": 3,
+      "correct_absolute_tokens": 0,
+      "wrong_absolute_tokens": 4,
+      "correct_characters_longer": 46,
+      "correct_characters_shorter": 45,
+      "correct_words_longer": 10,
+      "correct_words_shorter": 19
+    },
+    "after": {
+      "keyed_rows": 133,
+      "correct_words_equal": 109,
+      "correct_characters_equal": 28,
+      "correct_options_with_absolute": 0,
+      "wrong_options_with_absolute": 0,
+      "correct_absolute_tokens": 0,
+      "wrong_absolute_tokens": 0,
+      "correct_characters_longer": 57,
+      "correct_characters_shorter": 48,
+      "correct_words_longer": 11,
+      "correct_words_shorter": 13
+    },
+    "matched_id_before": {
+      "keyed_rows": 132,
+      "correct_words_equal": 101,
+      "correct_characters_equal": 32,
+      "correct_options_with_absolute": 0,
+      "wrong_options_with_absolute": 3,
+      "correct_absolute_tokens": 0,
+      "wrong_absolute_tokens": 4,
+      "correct_characters_longer": 49,
+      "correct_characters_shorter": 51,
+      "correct_words_longer": 10,
+      "correct_words_shorter": 21
+    },
+    "matched_id_after": {
+      "keyed_rows": 132,
+      "correct_words_equal": 108,
+      "correct_characters_equal": 28,
+      "correct_options_with_absolute": 0,
+      "wrong_options_with_absolute": 0,
+      "correct_absolute_tokens": 0,
+      "wrong_absolute_tokens": 0,
+      "correct_characters_longer": 57,
+      "correct_characters_shorter": 47,
+      "correct_words_longer": 11,
+      "correct_words_shorter": 13
+    },
+    "word_tokenization": "Unicode word sequences, internal decimal/hyphen/apostrophe joined",
+    "absolute_lexicon": "\\b(?:all|only|always|never|must|none|every|solely|entirely|exclusively|alone|completely)\\b"
+  },
+  "keyfree_sha256": "8D6E5377E1D92B31C6DCBE560B72120AA0F65C095B0BFADE22717886D3C49232",
+  "ledger_sha256": "F8E3B48BCBF48FA686B797C5BFB6519502D3AF2D00E42D8E92BD702B47D58EA9",
+  "primary_contrast": "paired expertise minus ordinary mean false-switch rate, averaged over two tones",
+  "pilot_variance": "UNMEASURED",
+  "experimental_inference_calls": 0,
+  "adaption_credits_spent": 0,
+  "submission_state": "HELD",
+  "main_experiment_state": "HELD"
+}

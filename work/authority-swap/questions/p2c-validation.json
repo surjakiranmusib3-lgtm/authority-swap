@@ -1,0 +1,29 @@
+{
+  "status": "PASS",
+  "rows": 133,
+  "keys": {
+    "B": 66,
+    "A": 67
+  },
+  "human_ids": [
+    "C008",
+    "E018",
+    "S028",
+    "C032",
+    "E032",
+    "E033",
+    "S035",
+    "E036",
+    "C035",
+    "C040",
+    "E041",
+    "C044"
+  ],
+  "changed_human_count": 5,
+  "main_source_pages": 59,
+  "max_main_per_page": 5,
+  "fact_atoms": 196,
+  "fact_or_event_crossbank_overlaps": 0,
+  "manifest_files_checked": 7,
+  "evidence_files_checked": 14
+}

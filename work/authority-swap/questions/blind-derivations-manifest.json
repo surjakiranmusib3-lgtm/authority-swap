@@ -1,0 +1,22 @@
+{
+  "frozen_at_utc": "2026-11-14T01:16:42.984003+00:00",
+  "derivations": [
+    {
+      "file": "C:/Users/REDACTED\\Documents\\Codex\\2026-11-13\\referenced-chatgpt-conversation-this-is-an\\work\\authority-swap\\questions\\verified-c.jsonl",
+      "sha256": "ceb320229f4253029f6b3df96cf4b1ee23c12253151e61a2ba93286a9e0cd00b",
+      "records": 46
+    },
+    {
+      "file": "C:/Users/REDACTED\\Documents\\Codex\\2026-11-13\\referenced-chatgpt-conversation-this-is-an\\work\\authority-swap\\questions\\verified-e.jsonl",
+      "sha256": "e2ff66673415c64f3b1521b4dce10c0785e9933303f39fd3b4c4820d9fed80b4",
+      "records": 46
+    },
+    {
+      "file": "C:/Users/REDACTED\\Documents\\Codex\\2026-11-13\\referenced-chatgpt-conversation-this-is-an\\work\\authority-swap\\questions\\verified-s.jsonl",
+      "sha256": "89acd478fbd31f381c03ddc052b75fd7e437b13773ddddb62bd1e98d929c6c58",
+      "records": 46
+    }
+  ],
+  "working_questions_sha256": "fe0b5e444f0d2f8d2573c5cb2de7c278f05ca0272228fa59f457da977b5e7c4d",
+  "note": "Independent derivations saved and hashed before this script opens draft keys."
+}

@@ -1,0 +1,63 @@
+{
+  "created_utc": "2026-11-14T17:51:28.567084+00:00",
+  "reviewer_input": "key-free packets only",
+  "draft_key_files_opened": false,
+  "files": [
+    {
+      "file": "work\\authority-swap\\questions\\p2c-replacement-questions.csv",
+      "sha256": "EC6BD9E9226D55202B03318E92D0AAD95AEC64FF295F273103CE424CDD4E5E5B"
+    },
+    {
+      "file": "work\\authority-swap\\questions\\p2c-verified-replacement.jsonl",
+      "sha256": "41E24C5A8958CD031A6A07DCE563343EB0BD42AF01A6DD1D960E58256DA4F057"
+    },
+    {
+      "file": "work\\authority-swap\\questions\\p2c-diversify-questions.csv",
+      "sha256": "6FEA8C5898EF8314E7CB31C167408B4E28E2D18A8BAED62DBAD86256424F959A"
+    },
+    {
+      "file": "work\\authority-swap\\questions\\p2c-verified-diversify.jsonl",
+      "sha256": "AF687F2C1726051C7DAA789A2834318C420E90ABE70D22ACE17F4AD170406910"
+    },
+    {
+      "file": "work\\authority-swap\\questions\\p2c-wording-questions.csv",
+      "sha256": "0F46DAB58BBF0444B8856B06E7B1A2DA3EAC687D8DA6F1C8E53B99D36D2C3DDF"
+    },
+    {
+      "file": "work\\authority-swap\\questions\\p2c-verified-wording.jsonl",
+      "sha256": "54F1D13F478A3D72CBAB2A3B2F6A4738C7F04CDC34D0151E5F50B99D5F24B4AB"
+    },
+    {
+      "file": "work\\authority-swap\\questions\\p2c-adjudication-questions.csv",
+      "sha256": "1F3E5FF8DC41A733A2210478F17AA7F1A9AB393E52B26F4F1A6EA05AA6CDE703"
+    },
+    {
+      "file": "work\\authority-swap\\questions\\p2c-verified-adjudication.jsonl",
+      "sha256": "2822EFF3E9C20FB680F87E9A1EAD30A984C28E56B77AF5392BB54699B6DDCD8B"
+    },
+    {
+      "file": "work\\authority-swap\\questions\\p2c-citation-questions.csv",
+      "sha256": "21746ED002E3F11B315F6BF7E26723E7F668A36FD46B45F640F0391D63CED22E"
+    },
+    {
+      "file": "work\\authority-swap\\questions\\p2c-verified-citation.jsonl",
+      "sha256": "38C4B1EC6BFD3FDB0D92D908F74E969DCEF8B9D8E74B02AFD88C621B8B07B711"
+    },
+    {
+      "file": "work\\authority-swap\\questions\\p2c-locator-questions.csv",
+      "sha256": "2D4353D41C2543C4111708D44F4E4175C92CA165679958EAA07CD4A0F011F968"
+    },
+    {
+      "file": "work\\authority-swap\\questions\\p2c-verified-locator.jsonl",
+      "sha256": "CD6688A646709AA9079156479B9B7EE2F5888C1F43F89E2CD2DE3645254EDC00"
+    },
+    {
+      "file": "work\\authority-swap\\questions\\p2c-verified-replacements-a.jsonl",
+      "sha256": "ABA8F9EF6C6343639ACFD07BA94EB53BC72859602909228B372E1AEB680A53E2"
+    },
+    {
+      "file": "work\\authority-swap\\questions\\p2c-verified-replacements-b.jsonl",
+      "sha256": "0639A7C4CB16E691268F22905118AC4FC131CEC592FAA2F48A6F86264EA3EBB0"
+    }
+  ]
+}

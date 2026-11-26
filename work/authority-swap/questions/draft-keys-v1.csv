@@ -1,0 +1,139 @@
+﻿id,draft_key,draft_rationale
+C001,A,NPS dates establishment to 1872.
+C002,B,Bartholdi sculpted it; Eiffel and Company engineered it.
+C003,B,LOC places printing in Mainz.
+C004,A,LOC dates the patent to 1876.
+C005,B,22 autosome pairs plus one sex pair.
+C006,A,RNA has uracil.
+C007,A,Smithsonian says largest living lizard.
+C008,B,Smithsonian lists Ailuridae.
+C009,A,The timeline names Watson.
+C010,B,NPS lists Liberty Island.
+E001,A,USGS calls erupted magma lava.
+E002,B,USGS says P waves travel fastest.
+E003,A,NPS defines igneous rocks by solidified magma.
+E004,B,NPS describes formation of sedimentary rocks.
+E005,A,NOAA locates Challenger Deep in western Pacific.
+E006,B,NOAA defines warmer surface to cooler deep transition.
+E007,A,NOAA identifies new and full moons for spring tides.
+E008,B,NOAA gives 35 parts per thousand.
+E009,A,NOAA describes brackish mixing where rivers meet sea.
+E010,B,NPS links constrictions to pressure and periodic eruption.
+S001,A,Venus is listed at 464 C and Mars at -65 C.
+S002,B,Earth is listed at 5.97 and Mars at 0.642 in units of 10^24 kg.
+S003,A,Neptune is Yes and Mars is No.
+S004,B,Mercury is 4222.6 hours and Earth is 24.0 hours.
+S005,A,"The table maps length to metre, not gram."
+S006,B,The table maps temperature to kelvin and luminous intensity to candela.
+S007,A,Kilo is shown with symbol k; K is the kelvin unit symbol on the separate base-units table.
+S008,B,Iron is Fe; fluorine is F.
+S009,A,Carbon is atomic number 6; nitrogen is 7.
+S010,B,Gold is Au; silver is Ag.
+C011,B,NPS gives 96% in Wyoming.
+C012,A,"25 windows, seven rays."
+C013,A,Statue construction began in 1875; pedestal in 1884.
+C014,B,LOC names Fust as partner.
+C015,A,LOC estimates about a quarter.
+C016,B,"LOC gives 174,465."
+C017,B,RNA uses ribose.
+C018,A,Transcription makes RNA.
+C019,B,NHGRI places it on cytoplasmic ribosomes.
+C020,A,Smithsonian describes crepuscular activity.
+E011,A,USGS says intensity changes by location while magnitude is one value.
+E012,B,USGS says P waves pass solids and liquids; S waves do not pass liquids.
+E013,A,NOAA gives about 85 percent versus another 10 percent.
+E014,B,NOAA identifies temperature and salinity.
+E015,A,NOAA says meteorological water-level changes mask small tides.
+E016,B,NOAA says deeper cold nutrient-rich water replaces displaced surface water.
+E017,A,"Kaibab is 270 Ma; Tapeats is 508 Ma, and lower Ma means younger."
+E018,B,NPS links intrusive slow cooling to coarse grains.
+E019,A,"USGS says clay absorbs water more slowly than sand, increasing runoff."
+E020,B,USGS links viscous magma to retained gas and explosions.
+S011,A,Earth is 5514 kg/m^3 and Venus is 5243.
+S012,B,Neptune is 23.5 km/s; Uranus is 21.3.
+S013,A,Mercury is 0.206; Mars is 0.094.
+S014,B,Jupiter is 9.9 hours; Saturn is 10.7.
+S015,A,The paragraph pairs kilogram with Planck constant and kelvin with Boltzmann constant.
+S016,B,Nano is 10^-9; micro is 10^-6.
+S017,A,Giga is 10^9; mega is 10^6.
+S018,B,Zinc is 30; copper is 29.
+S019,A,Aluminium is 26.982; magnesium is 24.305.
+S020,B,Selenium is 34; bromine is 35.
+C021,A,The intervals are 46 and 32 years.
+C022,B,Lake Hotel predates Old Faithful Inn.
+C023,A,Framework weight exceeds copper.
+C024,B,Pedestal exceeds statue segment.
+C025,B,Body range exceeds tail range.
+C026,A,The call came in 1915.
+C027,B,One-quarter of 180 is 45.
+C028,A,22 pairs contain 44 chromosomes.
+C029,A,NHGRI gives 61 sense codons.
+C030,B,366 exceeds twice 154.
+E021,A,10935 / 3682 is about 2.97.
+E022,B,1500 / 340 is about 4.41.
+E023,A,Half of 24 h 50 min is 12 h 25 min; even spacing is stipulated.
+E024,B,8 times 1.85 is 14.8.
+E025,A,The first gap is 12.4 s and the second about 7.3 s.
+E026,B,5400 / 2700 equals 2 in this specific simulation.
+E027,A,228 Ma exceeds 70 Ma.
+E028,B,Two spring-tide periods each lunar month imply about half a month apart.
+E029,A,5.614 minus 2.526 equals 3.088 million cubic miles.
+E030,B,277 / 1450 is about 0.19.
+S021,A,Earth–Venus differ by 652 km; Uranus–Neptune by 1590 km.
+S022,B,Neptune has 59800 days and -200 C versus Uranus 30589 and -195; Saturn has shorter period and warmer temperature.
+S023,A,Twice Earth's 9.8 is 19.6; Jupiter is 23.1 and Neptune 11.0.
+S024,B,Uranus has 97.8 degrees obliquity and 0.8 degrees orbital inclination; Venus has 177.4 degrees obliquity but 3.4 degrees inclination.
+S025,A,"10^9 / 10^3 = 10^6, while 10^9 / 10^6 = 10^3."
+S026,B,"Electric current uses the ampere, and the paragraph pairs ampere with elementary charge."
+S027,A,10^6 times 10^-6 equals 1; 10^3 times 10^-6 equals 10^-3.
+S028,B,Silver 47 plus iodine 53 equals 100; gold 79 plus carbon 6 equals 85.
+S029,A,"Silver is 47, cadmium 48 (112.41), indium 49 (114.82)."
+S030,B,Tellurium is Z=52 and 127.60; iodine is Z=53 and 126.90.
+C032,B,LOC calls it the 42-line Bible.
+E031,A,USGS describes saturated zone below the water table.
+S032,B,Micro is µ; m denotes milli.
+S033,A,Lead is Pb; phosphorus is P.
+C031,A,Grant precedes designation.
+E032,B,NOAA identifies temperature and pressure as the primary factors for travel distance.
+S031,A,Moon is 708.7 hours; Mars is 24.7.
+E033,A,124 Ma is larger than 51 Ma.
+C036,B,Smithsonian lists Himalayas.
+E034,B,NPS lists coal as accumulated plant material.
+S035,A,Mercury is 167 C; Mars is -65 C.
+C033,B,NPS says 1986.
+C034,A,NPS dates departure to 1804.
+C037,B,NPS says gold leaf.
+E035,A,NOAA describes entirely freshwater Great Lakes estuaries.
+E036,B,USGS states 71% surface coverage; 96.5% is ocean share of total water.
+E038,B,NPS says deposited calcite forms travertine.
+S034,B,Saturn is 120536 km; Uranus is 51118.
+S036,B,Avogadro constant is mol^-1; Planck constant is J s.
+S038,B,Silver is 47; cadmium is 48.
+C035,A,NHGRI lists UAG.
+C038,A,LOC names New York and San Francisco.
+E037,A,370 / 121 is about 3.1; depth is stated as over 121 feet.
+S037,A,Ronto is 10^-27; yocto is 10^-24.
+C040,A,"NPS gives October 28, 1886."
+C042,B,NHGRI says most often single-stranded.
+C043,B,Smithsonian names bamboo.
+E042,B,NPS defines metamorphic rock by alteration of preexisting rock.
+S041,A,Candela is luminous intensity; mole is amount of substance.
+C039,B,NHGRI names messenger RNA.
+C041,A,LOC says Europe.
+C046,B,NHGRI defines phenotype as observable traits.
+E039,A,NPS places it in Midway Geyser Basin.
+E040,B,NOAA says weathered land rocks are a major source.
+E041,A,USGS says fragments of ash through boulders are tephra.
+E043,A,NOAA describes lower salinity at the equator and poles and higher salinity at mid-latitudes.
+E044,B,USGS says well pumping can lower local water-table levels.
+E046,B,NPS describes acidic hot springs that dissolve surrounding rock.
+S039,A,Venus is 35.0 km/s; Earth is 29.8.
+S040,B,Neptune is 11.0 m/s^2; Saturn is 9.0.
+S043,A,Ronna is 10^27; quetta is 10^30.
+S044,B,Tungsten is 74; tantalum is 73.
+S045,A,Platinum is 195.08; gold is 196.97.
+S046,B,Xenon is 54; krypton is 36.
+C044,A,Hot Springs was set aside in 1832.
+C045,A,NPS names its museum.
+E045,A,NOAA attributes channeling and long-distance travel to up/down refraction.
+S042,B,Luminous efficacy K_cd is 683 lm W^-1; light speed is 299792458 m s^-1.

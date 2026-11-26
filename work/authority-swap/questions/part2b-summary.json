@@ -1,0 +1,26 @@
+{
+  "items": 138,
+  "source_status": {
+    "SOURCE_PASS": 137,
+    "SOURCE_FLAG": 1
+  },
+  "use_status": {
+    "SOURCE_CHECKED_AWAITING_2C": 119,
+    "EXCLUDE_PENDING_REPLACEMENT_2C": 18,
+    "SOURCE_OR_WORDING_FLAG_2C": 1
+  },
+  "comparison": {
+    "MATCH": 129,
+    "REVISED_NOT_COMPARABLE": 8,
+    "UNRESOLVED": 1
+  },
+  "flagged_ids": [
+    "C024"
+  ],
+  "disagreements": [],
+  "source_checked_main_tiers": {
+    "easy": 30,
+    "medium": 29,
+    "hard": 15
+  }
+}

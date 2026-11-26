@@ -1,0 +1,12 @@
+{
+  "id": "C016",
+  "bank": "main",
+  "tier": "medium",
+  "domain_group": "history and culture",
+  "domain": "invention_history",
+  "stem": "Which U.S. patent number does the Library of Congress timeline give for Bell's first telephone patent?",
+  "option_a": "161,739",
+  "option_b": "174,465",
+  "source_url": "https://guides.loc.gov/chronicling-america-telephone-invention",
+  "source_locator": "Introduction timeline; March 7"
+}
