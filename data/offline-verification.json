@@ -1,0 +1,60 @@
+{
+  "status": "PASS",
+  "logical_records_audited": 5354,
+  "models": 5,
+  "tables": [
+    {
+      "name": "Core Branches",
+      "rows": 40,
+      "sha256": "ae4de2ec207144bddf17ea6776adeb4f2d5bad04cb689009516d2e588558b1e2",
+      "matches_saved_table": true
+    },
+    {
+      "name": "Paired Contrasts",
+      "rows": 5,
+      "sha256": "b18519a44467530fb1b2e22ac6d72fd21ed61a9419f4f2f90dfdd2fba646d1a3",
+      "matches_saved_table": true
+    },
+    {
+      "name": "Escalation",
+      "rows": 120,
+      "sha256": "a38f854d764893da9bb100d263e3933af288cc1db673286edd6f6f815a03100b",
+      "matches_saved_table": true
+    },
+    {
+      "name": "Escalation Contrasts",
+      "rows": 30,
+      "sha256": "b3ebb2d765382509f536d56e82f93ae147edd9fe1e0def0828bea56e822c97db",
+      "matches_saved_table": true
+    },
+    {
+      "name": "Correction",
+      "rows": 30,
+      "sha256": "e90d3708682e39ae2ddcf4d34102fb9657f56dac8f81980fb35c66b0f453d279",
+      "matches_saved_table": true
+    },
+    {
+      "name": "Unusable Diagnostics",
+      "rows": 5,
+      "sha256": "972f1e1273934d089b630ec0ba4e4e1041fd71e774509dafa5dcc7934d6855fc",
+      "matches_saved_table": true
+    },
+    {
+      "name": "Run Timing",
+      "rows": 15,
+      "sha256": "859c48c5a83d2096b9e56d0068a68d8838b29ea36f05387174266495116acaae",
+      "matches_saved_table": true
+    },
+    {
+      "name": "Hosted Accounting",
+      "rows": 3,
+      "sha256": "3c1f17042861dc0c728bb81b1b0d90122e0efc22a35005b02e68b1e50ddda6cd",
+      "matches_saved_table": true
+    }
+  ],
+  "conservative_project_credit_exposure": "3.280434",
+  "network_calls": 0,
+  "model_inference_calls": 0,
+  "credits_spent": 0,
+  "note": "Recomputed from preserved records; independent of provider availability. AI-only source verification remains a limitation."
+}

@@ -1,0 +1,9 @@
+{
+  "checked_on": "2026-11-27",
+  "credential_pattern_scan": "PASS",
+  "archive_members_scanned": 7270,
+  "python_syntax_files_checked": 25,
+  "scope": "All distributed files and every decompressed research archive member; no credentials accessed.",
+  "original_pdf_sha256": "2834ef783c4f439130e04bf4f1a9380c0da04acb831fce62d56f5679178dc8cb",
+  "note": "Pattern scans supplement the explicit file allowlist and manual scope review; they are not a guarantee against every possible form of private data."
+}
