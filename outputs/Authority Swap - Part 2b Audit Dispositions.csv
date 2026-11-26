@@ -1,0 +1,35 @@
+﻿id,findings,action
+C005,"Specify typical human somatic body cell; revised, independent verification pending. | Chromosome total/autosome overlap; replace C028 in 2c.",HELD_FOR_2B_2C
+E007,Spring-tide phase fact overlap; replace E028 in 2c.,HELD_FOR_2B_2C
+E009,Giveaway distractor revised; independent source/key check still pending.,HELD_FOR_2B_2C
+C013,Reviewer reported cited page omits pedestal start; alternate NPS source required.,HELD_FOR_2B_2C
+C015,Gutenberg vellum fraction/count overlap; replace C027 in 2c.,HELD_FOR_2B_2C
+E011,Canonical USGS URL timed out; alternative USGS page returned robot check. Source access remains unresolved.,HELD_FOR_2B_2C
+E017,Kaibab/Tapeats underlying-fact overlap; replace E027 in 2c.,HELD_FOR_2B_2C
+S016,"SI prefix concentration; retain S016 provisionally, diversify others in 2c; full fact audit pending.",HELD_FOR_2B_2C
+S017,"SI prefix concentration; retain S016 provisionally, diversify others in 2c; full fact audit pending.",EXCLUDE_PENDING_REPLACEMENT_2C
+C021,"Nested intervals tautology; revised to non-overlapping administration periods, independent verification pending.",HELD_FOR_2B_2C
+C024,"Reviewer reported 154 ft means ground-to-pedestal, not pedestal alone; clarification required.",HELD_FOR_2B_2C
+C027,Gutenberg vellum fraction/count overlap; replace C027 in 2c.,EXCLUDE_PENDING_REPLACEMENT_2C
+C028,Chromosome total/autosome overlap; replace C028 in 2c.,EXCLUDE_PENDING_REPLACEMENT_2C
+E021,Supplied-number arithmetic; exclude until replaced with factual or nontrivial source question in 2c.,EXCLUDE_PENDING_REPLACEMENT_2C
+E022,Supplied-number arithmetic; exclude until replaced with factual or nontrivial source question in 2c.,EXCLUDE_PENDING_REPLACEMENT_2C
+E023,Supplied-number arithmetic; exclude until replaced with factual or nontrivial source question in 2c.,EXCLUDE_PENDING_REPLACEMENT_2C
+E024,Supplied-number arithmetic; exclude until replaced with factual or nontrivial source question in 2c.,EXCLUDE_PENDING_REPLACEMENT_2C
+E025,Supplied-number arithmetic; exclude until replaced with factual or nontrivial source question in 2c.,EXCLUDE_PENDING_REPLACEMENT_2C
+E026,Supplied-number arithmetic; exclude until replaced with factual or nontrivial source question in 2c.,EXCLUDE_PENDING_REPLACEMENT_2C
+E027,Supplied-number arithmetic; exclude until replaced with factual or nontrivial source question in 2c. | Kaibab/Tapeats underlying-fact overlap; replace E027 in 2c.,EXCLUDE_PENDING_REPLACEMENT_2C
+E028,Supplied-number arithmetic; exclude until replaced with factual or nontrivial source question in 2c. | Spring-tide phase fact overlap; replace E028 in 2c.,EXCLUDE_PENDING_REPLACEMENT_2C
+E029,Supplied-number arithmetic; exclude until replaced with factual or nontrivial source question in 2c.,EXCLUDE_PENDING_REPLACEMENT_2C
+E030,Supplied-number arithmetic; exclude until replaced with factual or nontrivial source question in 2c.,EXCLUDE_PENDING_REPLACEMENT_2C
+S025,"SI prefix concentration; retain S016 provisionally, diversify others in 2c; full fact audit pending.",EXCLUDE_PENDING_REPLACEMENT_2C
+S027,"SI prefix concentration; retain S016 provisionally, diversify others in 2c; full fact audit pending.",EXCLUDE_PENDING_REPLACEMENT_2C
+S029,Cross-bank silver/cadmium underlying-fact overlap; replace S038 in 2c.,HELD_FOR_2B_2C
+E033,Supplied-number arithmetic; exclude until replaced with factual or nontrivial source question in 2c.,EXCLUDE_PENDING_REPLACEMENT_2C
+S038,Cross-bank silver/cadmium underlying-fact overlap; replace S038 in 2c.,EXCLUDE_PENDING_REPLACEMENT_2C
+E037,Supplied-number arithmetic; exclude until replaced with factual or nontrivial source question in 2c.,EXCLUDE_PENDING_REPLACEMENT_2C
+C041,Giveaway distractor revised; independent source/key check still pending.,HELD_FOR_2B_2C
+E040,Giveaway distractor revised; independent source/key check still pending.,HELD_FOR_2B_2C
+E041,Giveaway distractor revised; independent source/key check still pending.,HELD_FOR_2B_2C
+E046,Giveaway distractor revised; independent source/key check still pending.,HELD_FOR_2B_2C
+E045,Giveaway distractor revised; independent source/key check still pending.,HELD_FOR_2B_2C

@@ -1,0 +1,2 @@
+f75b636245548bb2f1c69f7861926dc76ab4b9cd52719ffe807a4f191dfe770f  Authority Swap - Protocol v3.6.md
+d3ab49a644ca3058abef2b1559c6258dabc97848ca84e849f9fe08bc63e1c972  Authority Swap - v3.6 Templates and Assignments.json

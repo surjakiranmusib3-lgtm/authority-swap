@@ -1,0 +1,12 @@
+SHA-256 digests. Private normalized request/response records include exact final
+assistant text when usable for replay. Full study API response bodies and headers
+were not archived. The request accounting database and manifests are private.
+
+fa22cbcded835935f555015043481fbb9f7df9fcf3659910c19fab0133d77460  work/authority-swap/runs/main-v3.7/records-sha256.txt (5354 files)
+c9c1702f9d15f4257dd2bb773146f8105735b8ae55ce84257fedde74372d351b  work/authority-swap/runs/main-v3.7/items-sha256.txt (970 files)
+df8e7f5d5efeeb67a99bfbd6a087cf4c49a9f5ca26d7437881513372de798b23  Authority Swap - Protocol v3.7.md
+a3b7bf728d4c5dfc102dc4b15885bed1205df1a48518b49defc9272d6cdf4481  Authority Swap - v3.7 Main Schedule.json
+8d6e5377e1d92b31c6dcbe560b72120aa0f65c095b0bfade22717886d3c49232  Authority Swap - Dataset v1.3 Key-free.csv
+f8e3b48bcbf48fa686b797c5bfb6519502d3af2d00e42d8e92bd702b47d58ea9  Authority Swap - Dataset v1.3 Source and Key Ledger.csv
+cc6ae9ddd5f6a42c557b911681a7548f1834dfc02a318b3c0bc1e7202a7bd7a6  calls.sqlite3
+7d483a8c7772ed491f0cf7b9c6fb28c0541e9b0280b3be0715599f2b77ab9dc7  analyze_v37.py

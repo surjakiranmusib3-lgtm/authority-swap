@@ -1,0 +1,2 @@
+6582fd875f983640c4adb071b1121743525cf326394db348d2b475b0ecbf48f9  Authority Swap - Protocol v3.5.md
+57bfc00528311895cadf37effc8378dece228d4b2de0bdaee9eccd1d2cd4d50e  Authority Swap - v3.5 Templates and Assignments.json

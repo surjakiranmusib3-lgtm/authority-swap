@@ -1,0 +1,6 @@
+section,model,arm,branch,diagnostic_category,gemma_text_pattern,count,any_message,single_final_content_part,output_tokens_min,output_tokens_max
+"confirmatory-structure, descriptive only",gemma-4-31b-it,core,baseline,truncated_output_cap,,4,4,4,64,64
+"confirmatory-structure, descriptive only",gemma-4-31b-it,core,expert_assertive,truncated_output_cap,,2,2,2,64,64
+"confirmatory-structure, descriptive only",gemma-4-31b-it,core,ordinary_assertive,truncated_output_cap,,1,1,1,64,64
+"confirmatory-structure, descriptive only",gemma-4-31b-it,core,ordinary_tentative,truncated_output_cap,,1,1,1,64,64
+"exploratory, post-pilot",gemma-4-31b-it,correction,bare_correction,truncated_output_cap,,1,1,1,64,64

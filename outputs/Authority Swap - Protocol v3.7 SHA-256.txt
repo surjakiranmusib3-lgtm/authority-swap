@@ -1,0 +1,2 @@
+df8e7f5d5efeeb67a99bfbd6a087cf4c49a9f5ca26d7437881513372de798b23  Authority Swap - Protocol v3.7.md
+a3b7bf728d4c5dfc102dc4b15885bed1205df1a48518b49defc9272d6cdf4481  Authority Swap - v3.7 Main Schedule.json

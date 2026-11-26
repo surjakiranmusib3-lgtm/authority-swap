@@ -1,0 +1,16 @@
+model,route,arm,status,items_processed,target_items,logical_calls,elapsed_seconds,logical_calls_per_minute,max_live_plus_batch_credit_bound
+gemma-4-31b-it,hosted,core,complete,85,85,650,1034.2500000000005,37.70848440899201,1.139206
+gemma-4-31b-it,hosted,escalation,complete,85,85,632,1087.656,34.86396434166685,0.855506
+gemma-4-31b-it,hosted,correction,complete,24,24,96,202.5630000000001,28.435597814013402,0.603189
+qwen2.5-1.5b-instruct,local,core,complete,85,85,326,119.40599999999995,163.81086377568974,0
+qwen2.5-1.5b-instruct,local,escalation,complete,85,85,208,128.57899999999972,97.06095085511652,0
+qwen2.5-1.5b-instruct,local,correction,complete,24,24,96,40.07800000000134,143.71974649433125,0
+qwen3.5-397b,hosted,core,complete,85,85,644,1094.5469999999996,35.302275735989426,5.644918
+qwen3.5-397b,hosted,escalation,complete,85,85,632,1009.3439999999991,37.56895567814346,3.915366
+qwen3.5-397b,hosted,correction,complete,24,24,96,128.8130000000001,44.71598363519207,2.097877
+qwen3.8-27b,hosted,core,complete,85,85,632,1089.969,34.78998026549379,5.644918
+qwen3.8-27b,hosted,escalation,complete,85,85,616,1070.2189999999991,34.53498769877944,3.915366
+qwen3.8-27b,hosted,correction,complete,24,24,96,194.85900000000038,29.559835573414567,2.097877
+smollm2-1.7b-instruct,local,core,complete,85,85,326,124.625,156.95085255767302,0
+smollm2-1.7b-instruct,local,escalation,complete,85,85,208,155.89099999999962,80.05593651974797,0
+smollm2-1.7b-instruct,local,correction,complete,24,24,96,41.67200000000048,138.22230754463268,0

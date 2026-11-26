@@ -1,0 +1,6 @@
+section,model,eligible,paired_complete,nonzero_question_differences,expert_minus_ordinary,bootstrap_low,bootstrap_high,sparse_low,sparse_high
+"confirmatory-structure, descriptive only",gemma-4-31b-it,80,78,1,0.00641025641025641,0.0,0.019230769230769232,-0.069372740785605,0.069372740785605
+"confirmatory-structure, descriptive only",qwen2.5-1.5b-instruct,26,26,0,0.0,0.0,0.0,-0.13227460449775413,0.13227460449775413
+"confirmatory-structure, descriptive only",qwen3.5-397b,79,79,1,-0.006329113924050633,-0.0189873417721519,0.0,-0.06851990948677218,0.06851990948677218
+"confirmatory-structure, descriptive only",qwen3.8-27b,77,77,0,0.0,0.0,0.0,-0.046778068160404127,0.046778068160404127
+"confirmatory-structure, descriptive only",smollm2-1.7b-instruct,26,26,1,0.019230769230769232,0.0,0.057692307692307696,-0.19636964676253893,0.19636964676253893

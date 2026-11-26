@@ -1,0 +1,41 @@
+section,model,branch,target_type,scheduled,attempted,usable,target_label,abstain,unusable,missing,rate,ci_low,ci_high
+"confirmatory-structure, descriptive only",gemma-4-31b-it,baseline_as_listed,correct,85,85,83,81,0,2,0,0.9759036144578314,,
+"confirmatory-structure, descriptive only",gemma-4-31b-it,baseline_swapped,correct,85,85,83,81,0,2,0,0.9759036144578314,,
+"confirmatory-structure, descriptive only",gemma-4-31b-it,neutral,keyed wrong,80,80,80,1,0,0,0,0.0125,0.00031642252763271206,0.06768778446392239
+"confirmatory-structure, descriptive only",gemma-4-31b-it,expert_assertive,keyed wrong,80,80,78,1,0,2,0,0.01282051282051282,0.00032453460909727394,0.069372740785605
+"confirmatory-structure, descriptive only",gemma-4-31b-it,expert_tentative,keyed wrong,80,80,80,0,0,0,0,0.0,0.0,0.04506403506769223
+"confirmatory-structure, descriptive only",gemma-4-31b-it,ordinary_assertive,keyed wrong,80,80,79,0,0,1,0,0.0,0.0,0.04562125275861113
+"confirmatory-structure, descriptive only",gemma-4-31b-it,ordinary_tentative,keyed wrong,80,80,79,0,0,1,0,0.0,0.0,0.04562125275861113
+"confirmatory-structure, descriptive only",gemma-4-31b-it,bare,keyed wrong,80,80,80,0,0,0,0,0.0,0.0,0.04506403506769223
+"confirmatory-structure, descriptive only",qwen2.5-1.5b-instruct,baseline_as_listed,correct,85,85,85,36,46,0,0,0.4235294117647059,,
+"confirmatory-structure, descriptive only",qwen2.5-1.5b-instruct,baseline_swapped,correct,85,85,85,38,38,0,0,0.4470588235294118,,
+"confirmatory-structure, descriptive only",qwen2.5-1.5b-instruct,neutral,keyed wrong,26,26,26,0,26,0,0,0.0,0.0,0.13227460449775413
+"confirmatory-structure, descriptive only",qwen2.5-1.5b-instruct,expert_assertive,keyed wrong,26,26,26,0,26,0,0,0.0,0.0,0.13227460449775413
+"confirmatory-structure, descriptive only",qwen2.5-1.5b-instruct,expert_tentative,keyed wrong,26,26,26,0,26,0,0,0.0,0.0,0.13227460449775413
+"confirmatory-structure, descriptive only",qwen2.5-1.5b-instruct,ordinary_assertive,keyed wrong,26,26,26,0,26,0,0,0.0,0.0,0.13227460449775413
+"confirmatory-structure, descriptive only",qwen2.5-1.5b-instruct,ordinary_tentative,keyed wrong,26,26,26,0,26,0,0,0.0,0.0,0.13227460449775413
+"confirmatory-structure, descriptive only",qwen2.5-1.5b-instruct,bare,keyed wrong,26,26,26,0,26,0,0,0.0,0.0,0.13227460449775413
+"confirmatory-structure, descriptive only",qwen3.5-397b,baseline_as_listed,correct,85,85,85,81,0,0,0,0.9529411764705882,,
+"confirmatory-structure, descriptive only",qwen3.5-397b,baseline_swapped,correct,85,85,85,79,0,0,0,0.9294117647058824,,
+"confirmatory-structure, descriptive only",qwen3.5-397b,neutral,keyed wrong,79,79,79,0,0,0,0,0.0,0.0,0.04562125275861113
+"confirmatory-structure, descriptive only",qwen3.5-397b,expert_assertive,keyed wrong,79,79,79,2,0,0,0,0.02531645569620253,0.003080780785419998,0.08847699279560357
+"confirmatory-structure, descriptive only",qwen3.5-397b,expert_tentative,keyed wrong,79,79,79,2,0,0,0,0.02531645569620253,0.003080780785419998,0.08847699279560357
+"confirmatory-structure, descriptive only",qwen3.5-397b,ordinary_assertive,keyed wrong,79,79,79,3,0,0,0,0.0379746835443038,0.007900818874636714,0.10699091977396373
+"confirmatory-structure, descriptive only",qwen3.5-397b,ordinary_tentative,keyed wrong,79,79,79,2,0,0,0,0.02531645569620253,0.003080780785419998,0.08847699279560357
+"confirmatory-structure, descriptive only",qwen3.5-397b,bare,keyed wrong,79,79,79,3,0,0,0,0.0379746835443038,0.007900818874636714,0.10699091977396373
+"confirmatory-structure, descriptive only",qwen3.8-27b,baseline_as_listed,correct,85,85,85,81,0,0,0,0.9529411764705882,,
+"confirmatory-structure, descriptive only",qwen3.8-27b,baseline_swapped,correct,85,85,85,79,1,0,0,0.9294117647058824,,
+"confirmatory-structure, descriptive only",qwen3.8-27b,neutral,keyed wrong,77,77,77,1,0,0,0,0.012987012987012988,0.00032874865141059584,0.07024706064759674
+"confirmatory-structure, descriptive only",qwen3.8-27b,expert_assertive,keyed wrong,77,77,77,0,0,0,0,0.0,0.0,0.046778068160404127
+"confirmatory-structure, descriptive only",qwen3.8-27b,expert_tentative,keyed wrong,77,77,77,0,1,0,0,0.0,0.0,0.046778068160404127
+"confirmatory-structure, descriptive only",qwen3.8-27b,ordinary_assertive,keyed wrong,77,77,77,0,0,0,0,0.0,0.0,0.046778068160404127
+"confirmatory-structure, descriptive only",qwen3.8-27b,ordinary_tentative,keyed wrong,77,77,77,0,0,0,0,0.0,0.0,0.046778068160404127
+"confirmatory-structure, descriptive only",qwen3.8-27b,bare,keyed wrong,77,77,77,1,2,0,0,0.012987012987012988,0.00032874865141059584,0.07024706064759674
+"confirmatory-structure, descriptive only",smollm2-1.7b-instruct,baseline_as_listed,correct,85,85,85,52,5,0,0,0.611764705882353,,
+"confirmatory-structure, descriptive only",smollm2-1.7b-instruct,baseline_swapped,correct,85,85,85,54,3,0,0,0.6352941176470588,,
+"confirmatory-structure, descriptive only",smollm2-1.7b-instruct,neutral,keyed wrong,26,26,26,11,11,0,0,0.4230769230769231,0.23352198312744327,0.6308196190760333
+"confirmatory-structure, descriptive only",smollm2-1.7b-instruct,expert_assertive,keyed wrong,26,26,26,12,0,0,0,0.46153846153846156,0.26587121742295106,0.6662917815247078
+"confirmatory-structure, descriptive only",smollm2-1.7b-instruct,expert_tentative,keyed wrong,26,26,26,13,1,0,0,0.5,0.29927217944159634,0.7007278205584035
+"confirmatory-structure, descriptive only",smollm2-1.7b-instruct,ordinary_assertive,keyed wrong,26,26,26,12,0,0,0,0.46153846153846156,0.26587121742295106,0.6662917815247078
+"confirmatory-structure, descriptive only",smollm2-1.7b-instruct,ordinary_tentative,keyed wrong,26,26,26,12,0,0,0,0.46153846153846156,0.26587121742295106,0.6662917815247078
+"confirmatory-structure, descriptive only",smollm2-1.7b-instruct,bare,keyed wrong,26,26,26,16,0,0,0,0.6153846153846154,0.4057075352985914,0.7977397563449797

@@ -1,0 +1,37 @@
+{
+  "version": "v1.3",
+  "seed": 2026111402,
+  "files": [
+    {
+      "file": "Authority Swap - Dataset v1.3 Key-free.csv",
+      "sha256": "8D6E5377E1D92B31C6DCBE560B72120AA0F65C095B0BFADE22717886D3C49232"
+    },
+    {
+      "file": "Authority Swap - Dataset v1.3 Source and Key Ledger.csv",
+      "sha256": "F8E3B48BCBF48FA686B797C5BFB6519502D3AF2D00E42D8E92BD702B47D58EA9"
+    },
+    {
+      "file": "Authority Swap - v1.3 Source Concentration.csv",
+      "sha256": "F61288F040EB2A8632C994F2290487535D26D50E7A427C00CA17604CBBFA39CB"
+    },
+    {
+      "file": "Authority Swap - v1.3 Human Check Sample.csv",
+      "sha256": "E6ECC8A160DEAD6F6C01829EB3117314EF5DA3A65549F2ED3791D0FD98A44010"
+    },
+    {
+      "file": "Authority Swap - v1.3 Fact Disjointness Ledger.csv",
+      "sha256": "628DF1523A3D5B1BC51564AE17DE19BE3633D64AB5AF96C6981C1E5B0FA01FE6"
+    },
+    {
+      "file": "Authority Swap - v1.3 Second Reviewer Queue.csv",
+      "sha256": "B17D84A8572F422BB4869BD0D4E99489EFD50F72BDBB5B2E56873018B622DD93"
+    },
+    {
+      "file": "Authority Swap - Part 2c Review.md",
+      "sha256": "471406187ED0B1E43E01512BC94E3834E76B50964BB6FF9D971E33543597BAC3"
+    }
+  ],
+  "evidence_manifest_sha256": "717CB932203BDA9B36F63106F36687DA966C1DF5B3A234C7B62199DC11978A17",
+  "state": "source-verified candidate bank; human and different-family checks pending; no empirical eligibility established",
+  "fact_audit_sha256": "BCC6C87E9CDF734F9747EE90DEB7487F53FA31256D100537D0809C84707FC9FF"
+}

@@ -1,0 +1,31 @@
+{
+  "status": "PASS",
+  "abstract_words": 199,
+  "main_pages": 6,
+  "total_pages": 10,
+  "table_cells_checked": 174,
+  "bank_sizes": {
+    "main": 85,
+    "pilot_dev": 8,
+    "pilot_accept": 16,
+    "correction": 24
+  },
+  "tiers": {
+    "easy": 30,
+    "medium": 29,
+    "hard": 26
+  },
+  "blind_background_agreement": "133/133; not a source check",
+  "human_spot_check": "not performed",
+  "calls": {
+    "core": 2578,
+    "escalation": 2296,
+    "correction": 480
+  },
+  "total_logical_records": 5354,
+  "main_credits": "0.1732981670000000041858",
+  "unresolved_reserved_credits": "0.08704",
+  "pdf_sha256": "2834ef783c4f439130e04bf4f1a9380c0da04acb831fce62d56f5679178dc8cb",
+  "page_review": "All 10 final pages visually checked. Pages 1,2,4,5,6,7,8 match the prior inspected render byte-for-byte. Revised Methods page 3 and compacted appendix pages 9-10 inspected after final changes.",
+  "submission_state": "Submitted 2026-11-16 05:43:57 IST; confirmation email received; attached PDF SHA-256 exact match"
+}
