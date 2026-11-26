@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Please cite the report and identify the repository commit used."
+title: "Claimed Expertise and False Switching in Five Language Models"
+authors:
+  - family-names: "Musib"
+    given-names: "Surja Kiran"
+    affiliation: "Independent researcher"
+date-released: 2026-11-27
+type: software
+abstract: "Reproducibility package for a descriptive expertise-by-tone false-switching study, including protocol history, source-linked questions, saved responses and offline analysis."
+preferred-citation:
+  type: report
+  title: "Claimed Expertise and False Switching in Five Language Models"
+  authors:
+    - family-names: "Musib"
+      given-names: "Surja Kiran"
+  year: 2026
+  date-published: 2026-11-16
+  institution:
+    name: "Apart Research AI x Epistemics Research Sprint (submission)"
