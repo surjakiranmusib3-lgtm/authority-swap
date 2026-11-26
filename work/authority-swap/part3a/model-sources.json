@@ -1,0 +1,16 @@
+{
+  "qwen": {
+    "name": "Qwen2.5-1.5B-Instruct Q4_K_M",
+    "repository": "Qwen/Qwen2.5-1.5B-Instruct-GGUF",
+    "revision": "dd26da440ef0330c47919d1ecae0966d24022222",
+    "file": "qwen2.5-1.5b-instruct-q4_k_m.gguf",
+    "publisher_sha256": "6a1a2eb6d15622bf3c96857206351ba97e1af16c30d7a74ee38970e434e9407e"
+  },
+  "smol": {
+    "name": "SmolLM2-1.7B-Instruct Q4_K_M",
+    "repository": "HuggingFaceTB/SmolLM2-1.7B-Instruct-GGUF",
+    "revision": "6a7e79393ef2957e087f11fce1e50476799e313c",
+    "file": "smollm2-1.7b-instruct-q4_k_m.gguf",
+    "publisher_sha256": "decd2598bc2c8ed08c19adc3c8fdd461ee19ed5708679d1c54ef54a5a30d4f33"
+  }
+}
